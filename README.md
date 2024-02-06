@@ -1,2 +1,3 @@
 # testgit
-To test commands
+To test commands 
+some commands tested 
