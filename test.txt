@@ -1,7 +1,2 @@
-city : none
-hii
-A
-B
-git
-hello all 
-iih
+
+city : coimbatore
