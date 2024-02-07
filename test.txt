@@ -1,7 +1,2 @@
+
 city : coimbatore
-city : coimbatorehii
-A
-B
-git
-hello all 
-iih
