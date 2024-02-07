@@ -1,9 +1,2 @@
+
 city:chennai
-A
-Aiivity 
-hii
-A
-B
-git
-hello all 
-iih
